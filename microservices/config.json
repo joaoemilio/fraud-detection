@@ -1,0 +1,8 @@
+{
+    "ES_CLOUD_ID" : "FraudDetection:c291dGhhbWVyaWNhLWVhc3QxLmdjcC5lbGFzdGljLWNsb3VkLmNvbSQzNzkxNTVkOTMyZTM0NDc2YWFkNTZhMzNmYTQ2YjBkMiQ5NGE1MDc1NWFmYjM0NmNmODIyYzNiZTk2YjRhMjZjNA==",
+    "ES_CLOUD_PASSWORD" : "QQAm4gtJ13Rn3DZbxIl3oOv4",
+    "ELASTIC_APM_SERVICE_NAME" : "bank_service",
+    "ELASTIC_APM_SECRET_TOKEN" : "t2MsG7UEb5UpCY0mF1",
+    "ELASTIC_APM_SERVER_URL": "https://fraud-detection.apm.southamerica-east1.gcp.elastic-cloud.com",
+    "SERVICE_VERSION": "1.0"
+}
